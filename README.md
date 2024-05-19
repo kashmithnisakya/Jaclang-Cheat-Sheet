@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Discription](#discription)
-- [Jaclang Basic](jaclang-basic.md#jaclang-basic)
+- [Jaclang Basic](Jaclang_Basic.md#jaclang-basic)
   - [Data Types](#data-types)
     - [Primitive Data Types](#primitive-data-types)
     - [Non-Primitive Data Types](#non-primitive-data-types)
@@ -51,7 +51,7 @@
     - [From Import Statement](#from-import-statement)
     - [try-except Statement](#try-except-statement)
     - [raise Statement](#raise-statement)
-- [Data Spatial Programming](data-spatial-programming.md#data-spatial-programming)
+- [Data Spatial Programming](Data_Spatial_Programming.md#data-spatial-programming)
     - [Discription](#discription-data-spatial-programming)
     - [Nodes](#nodes)
     - [Edges](#edges)
