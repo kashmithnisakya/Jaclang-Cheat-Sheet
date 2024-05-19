@@ -1,10 +1,9 @@
 # Jaclang Cheat Sheet
 
 ## Table of Contents
-
-- [Jaclang Cheat Sheet](#jaclang-cheat-sheet)
-  - [Table of Contents](#table-of-contents)
-  - [Discription](#discription)
+- [Table of Contents](#table-of-contents)
+- [Discription](#discription)
+- [Jaclang Basic](jaclang-basic.md#jaclang-basic)
   - [Data Types](#data-types)
     - [Primitive Data Types](#primitive-data-types)
     - [Non-Primitive Data Types](#non-primitive-data-types)
@@ -39,13 +38,26 @@
     - [Class Constructor](#class-constructor)
     - [Class Methods](#class-methods)
     - [Class Inheritance](#class-inheritance)
-    - [Modules](#modules)
-    - [Import Module](#import-module)
-    - [Import Module As Alias](#import-module-as-alias)
-    - [Exception Handling](#exception-handling)
+  - [Others](#others)
+    - [Comments](#comments)
+    - [Docstrings](#docstrings)
+    - [Import Statements](#import-statements)
+    - [Print Statement](#print-statement)
+    - [Input Statement](#input-statement)
+    - [Global Statement](#global-statement)
+    - [Del Statement](#del-statement)
+    - [Assert Statement](#assert-statement)
+    - [Import Statement](#import-statement)
+    - [From Import Statement](#from-import-statement)
+    - [try-except Statement](#try-except-statement)
+    - [raise Statement](#raise-statement)
+- [Data Spatial Programming](data-spatial-programming.md#data-spatial-programming)
+    - [Discription](#discription-data-spatial-programming)
+    - [Nodes](#nodes)
+    - [Edges](#edges)
+    - [Walkers](#walkers)
 
 
-
-## Discription
+## [Discription](#discription)
 
 Jac Lang is a language that was built on top of Python, offering all the goodness of Python to Jac Lang programmers while including the entire Python ecosystem. By adopting a clean and intuitive syntax, Jac Lang makes it easier for developers and coders to write code that is easy to understand and maintain. Jac Lang uses syntax that allows the user to arrange arguments, lists, dictionaries, and other list-like objects in a readable format. Jac Lang prioritizes type safety to support the development of large-scale applications. By enforcing strict type checking, Jac Lang helps identify potential errors at compile time, rather than runtime, leading to more robust and reliable code. Jac Lang's programming approach focuses on data-spatial constructs, enhancing the handling and visualization of data in ways traditional programming paradigms might not support. Jac Lang has an up-and-coming feature that allows programmers to integrate LLMs into their programming pipeline seamlessly without the need for learning extensive libraries and complicated new syntaxes.
